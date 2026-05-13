@@ -6,10 +6,10 @@ Welcome to the comprehensive developer documentation hub. This repository contai
 
 ### Frontend & Frameworks
 
-- [**React**](./react/README.md) - Modern UI library documentation.
-- [**Next.js**](./nextjs/README.md) - Full-stack React framework.
-- [**TypeScript**](./typescript/README.md) - Typed JavaScript.
-- [**JavaScript**](./javascript/README.md) - Core language features and ES6+.
+- [**React**]- Modern UI library documentation.
+- [**Next.js**]- Full-stack React framework.
+- [**TypeScript**] - Typed JavaScript.
+- [**JavaScript**] - Core language features and ES6+.
 
 ### Backend & Servers
 
