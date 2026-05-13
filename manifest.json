@@ -2,633 +2,633 @@
   "docker": [
     {
       "name": "cheatsheet",
-      "path": "docker/cheatsheet.md"
+      "path": "docs/docker/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "docker/commands.md"
+      "path": "docs/docker/commands.md"
     },
     {
       "name": "debugging",
-      "path": "docker/debugging.md"
+      "path": "docs/docker/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "docker/deployment.md"
+      "path": "docs/docker/deployment.md"
     },
     {
       "name": "install",
-      "path": "docker/install.md"
+      "path": "docs/docker/install.md"
     },
     {
       "name": "security",
-      "path": "docker/security.md"
+      "path": "docs/docker/security.md"
     },
     {
       "name": "setup",
-      "path": "docker/setup.md"
+      "path": "docs/docker/setup.md"
     }
   ],
   "dotnet": [
     {
       "name": "cheatsheet",
-      "path": "dotnet/cheatsheet.md"
+      "path": "docs/dotnet/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "dotnet/commands.md"
+      "path": "docs/dotnet/commands.md"
     },
     {
       "name": "crud",
-      "path": "dotnet/crud.md"
+      "path": "docs/dotnet/crud.md"
     },
     {
       "name": "debugging",
-      "path": "dotnet/debugging.md"
+      "path": "docs/dotnet/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "dotnet/deployment.md"
+      "path": "docs/dotnet/deployment.md"
     },
     {
       "name": "install",
-      "path": "dotnet/install.md"
+      "path": "docs/dotnet/install.md"
     },
     {
       "name": "security",
-      "path": "dotnet/security.md"
+      "path": "docs/dotnet/security.md"
     },
     {
       "name": "setup",
-      "path": "dotnet/setup.md"
+      "path": "docs/dotnet/setup.md"
     }
   ],
   "express": [
     {
       "name": "cheatsheet",
-      "path": "express/cheatsheet.md"
+      "path": "docs/express/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "express/commands.md"
+      "path": "docs/express/commands.md"
     },
     {
       "name": "crud",
-      "path": "express/crud.md"
+      "path": "docs/express/crud.md"
     },
     {
       "name": "debugging",
-      "path": "express/debugging.md"
+      "path": "docs/express/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "express/deployment.md"
+      "path": "docs/express/deployment.md"
     },
     {
       "name": "install",
-      "path": "express/install.md"
+      "path": "docs/express/install.md"
     },
     {
       "name": "security",
-      "path": "express/security.md"
+      "path": "docs/express/security.md"
     },
     {
       "name": "setup",
-      "path": "express/setup.md"
+      "path": "docs/express/setup.md"
     }
   ],
   "firebase": [
     {
       "name": "cheatsheet",
-      "path": "firebase/cheatsheet.md"
+      "path": "docs/firebase/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "firebase/commands.md"
+      "path": "docs/firebase/commands.md"
     },
     {
       "name": "crud",
-      "path": "firebase/crud.md"
+      "path": "docs/firebase/crud.md"
     },
     {
       "name": "debugging",
-      "path": "firebase/debugging.md"
+      "path": "docs/firebase/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "firebase/deployment.md"
+      "path": "docs/firebase/deployment.md"
     },
     {
       "name": "install",
-      "path": "firebase/install.md"
+      "path": "docs/firebase/install.md"
     },
     {
       "name": "security",
-      "path": "firebase/security.md"
+      "path": "docs/firebase/security.md"
     },
     {
       "name": "setup",
-      "path": "firebase/setup.md"
+      "path": "docs/firebase/setup.md"
     }
   ],
   "github": [
     {
       "name": "cheatsheet",
-      "path": "github/cheatsheet.md"
+      "path": "docs/github/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "github/commands.md"
+      "path": "docs/github/commands.md"
     },
     {
       "name": "crud",
-      "path": "github/crud.md"
+      "path": "docs/github/crud.md"
     },
     {
       "name": "debugging",
-      "path": "github/debugging.md"
+      "path": "docs/github/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "github/deployment.md"
+      "path": "docs/github/deployment.md"
     },
     {
       "name": "install",
-      "path": "github/install.md"
+      "path": "docs/github/install.md"
     },
     {
       "name": "security",
-      "path": "github/security.md"
+      "path": "docs/github/security.md"
     },
     {
       "name": "setup",
-      "path": "github/setup.md"
+      "path": "docs/github/setup.md"
     }
   ],
   "go": [
     {
       "name": "cheatsheet",
-      "path": "go/cheatsheet.md"
+      "path": "docs/go/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "go/commands.md"
+      "path": "docs/go/commands.md"
     },
     {
       "name": "crud",
-      "path": "go/crud.md"
+      "path": "docs/go/crud.md"
     },
     {
       "name": "debugging",
-      "path": "go/debugging.md"
+      "path": "docs/go/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "go/deployment.md"
+      "path": "docs/go/deployment.md"
     },
     {
       "name": "install",
-      "path": "go/install.md"
+      "path": "docs/go/install.md"
     },
     {
       "name": "security",
-      "path": "go/security.md"
+      "path": "docs/go/security.md"
     },
     {
       "name": "setup",
-      "path": "go/setup.md"
+      "path": "docs/go/setup.md"
     }
   ],
   "java": [
     {
       "name": "cheatsheet",
-      "path": "java/cheatsheet.md"
+      "path": "docs/java/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "java/commands.md"
+      "path": "docs/java/commands.md"
     },
     {
       "name": "crud",
-      "path": "java/crud.md"
+      "path": "docs/java/crud.md"
     },
     {
       "name": "debugging",
-      "path": "java/debugging.md"
+      "path": "docs/java/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "java/deployment.md"
+      "path": "docs/java/deployment.md"
     },
     {
       "name": "install",
-      "path": "java/install.md"
+      "path": "docs/java/install.md"
     },
     {
       "name": "security",
-      "path": "java/security.md"
+      "path": "docs/java/security.md"
     },
     {
       "name": "setup",
-      "path": "java/setup.md"
+      "path": "docs/java/setup.md"
     }
   ],
   "javascript": [
     {
       "name": "cheatsheet",
-      "path": "javascript/cheatsheet.md"
+      "path": "docs/javascript/cheatsheet.md"
     },
     {
       "name": "features",
-      "path": "javascript/features.md"
+      "path": "docs/javascript/features.md"
     },
     {
       "name": "security",
-      "path": "javascript/security.md"
+      "path": "docs/javascript/security.md"
     }
   ],
   "linux": [
     {
       "name": "cheatsheet",
-      "path": "linux/cheatsheet.md"
+      "path": "docs/linux/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "linux/commands.md"
+      "path": "docs/linux/commands.md"
     },
     {
       "name": "debugging",
-      "path": "linux/debugging.md"
+      "path": "docs/linux/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "linux/deployment.md"
+      "path": "docs/linux/deployment.md"
     },
     {
       "name": "install",
-      "path": "linux/install.md"
+      "path": "docs/linux/install.md"
     },
     {
       "name": "security",
-      "path": "linux/security.md"
+      "path": "docs/linux/security.md"
     },
     {
       "name": "setup",
-      "path": "linux/setup.md"
+      "path": "docs/linux/setup.md"
     }
   ],
   "mongodb": [
     {
       "name": "cheatsheet",
-      "path": "mongodb/cheatsheet.md"
+      "path": "docs/mongodb/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "mongodb/commands.md"
+      "path": "docs/mongodb/commands.md"
     },
     {
       "name": "crud",
-      "path": "mongodb/crud.md"
+      "path": "docs/mongodb/crud.md"
     },
     {
       "name": "debugging",
-      "path": "mongodb/debugging.md"
+      "path": "docs/mongodb/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "mongodb/deployment.md"
+      "path": "docs/mongodb/deployment.md"
     },
     {
       "name": "install",
-      "path": "mongodb/install.md"
+      "path": "docs/mongodb/install.md"
     },
     {
       "name": "security",
-      "path": "mongodb/security.md"
+      "path": "docs/mongodb/security.md"
     },
     {
       "name": "setup",
-      "path": "mongodb/setup.md"
+      "path": "docs/mongodb/setup.md"
     }
   ],
   "mysql": [
     {
       "name": "cheatsheet",
-      "path": "mysql/cheatsheet.md"
+      "path": "docs/mysql/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "mysql/commands.md"
+      "path": "docs/mysql/commands.md"
     },
     {
       "name": "crud",
-      "path": "mysql/crud.md"
+      "path": "docs/mysql/crud.md"
     },
     {
       "name": "debugging",
-      "path": "mysql/debugging.md"
+      "path": "docs/mysql/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "mysql/deployment.md"
+      "path": "docs/mysql/deployment.md"
     },
     {
       "name": "install",
-      "path": "mysql/install.md"
+      "path": "docs/mysql/install.md"
     },
     {
       "name": "security",
-      "path": "mysql/security.md"
+      "path": "docs/mysql/security.md"
     },
     {
       "name": "setup",
-      "path": "mysql/setup.md"
+      "path": "docs/mysql/setup.md"
     }
   ],
   "nextjs": [
     {
       "name": "cheatsheet",
-      "path": "nextjs/cheatsheet.md"
+      "path": "docs/nextjs/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "nextjs/commands.md"
+      "path": "docs/nextjs/commands.md"
     },
     {
       "name": "debugging",
-      "path": "nextjs/debugging.md"
+      "path": "docs/nextjs/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "nextjs/deployment.md"
+      "path": "docs/nextjs/deployment.md"
     },
     {
       "name": "install",
-      "path": "nextjs/install.md"
+      "path": "docs/nextjs/install.md"
     },
     {
       "name": "security",
-      "path": "nextjs/security.md"
+      "path": "docs/nextjs/security.md"
     },
     {
       "name": "setup",
-      "path": "nextjs/setup.md"
+      "path": "docs/nextjs/setup.md"
     }
   ],
   "nodejs": [
     {
       "name": "cheatsheet",
-      "path": "nodejs/cheatsheet.md"
+      "path": "docs/nodejs/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "nodejs/commands.md"
+      "path": "docs/nodejs/commands.md"
     },
     {
       "name": "debugging",
-      "path": "nodejs/debugging.md"
+      "path": "docs/nodejs/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "nodejs/deployment.md"
+      "path": "docs/nodejs/deployment.md"
     },
     {
       "name": "install",
-      "path": "nodejs/install.md"
+      "path": "docs/nodejs/install.md"
     },
     {
       "name": "security",
-      "path": "nodejs/security.md"
+      "path": "docs/nodejs/security.md"
     },
     {
       "name": "setup",
-      "path": "nodejs/setup.md"
+      "path": "docs/nodejs/setup.md"
     }
   ],
   "ollama": [
     {
       "name": "cheatsheet",
-      "path": "ollama/cheatsheet.md"
+      "path": "docs/ollama/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "ollama/commands.md"
+      "path": "docs/ollama/commands.md"
     },
     {
       "name": "debugging",
-      "path": "ollama/debugging.md"
+      "path": "docs/ollama/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "ollama/deployment.md"
+      "path": "docs/ollama/deployment.md"
     },
     {
       "name": "install",
-      "path": "ollama/install.md"
+      "path": "docs/ollama/install.md"
     },
     {
       "name": "security",
-      "path": "ollama/security.md"
+      "path": "docs/ollama/security.md"
     },
     {
       "name": "setup",
-      "path": "ollama/setup.md"
+      "path": "docs/ollama/setup.md"
     }
   ],
   "php": [
     {
       "name": "cheatsheet",
-      "path": "php/cheatsheet.md"
+      "path": "docs/php/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "php/commands.md"
+      "path": "docs/php/commands.md"
     },
     {
       "name": "crud",
-      "path": "php/crud.md"
+      "path": "docs/php/crud.md"
     },
     {
       "name": "debugging",
-      "path": "php/debugging.md"
+      "path": "docs/php/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "php/deployment.md"
+      "path": "docs/php/deployment.md"
     },
     {
       "name": "install",
-      "path": "php/install.md"
+      "path": "docs/php/install.md"
     },
     {
       "name": "security",
-      "path": "php/security.md"
+      "path": "docs/php/security.md"
     },
     {
       "name": "setup",
-      "path": "php/setup.md"
+      "path": "docs/php/setup.md"
     }
   ],
   "postgresql": [
     {
       "name": "cheatsheet",
-      "path": "postgresql/cheatsheet.md"
+      "path": "docs/postgresql/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "postgresql/commands.md"
+      "path": "docs/postgresql/commands.md"
     },
     {
       "name": "crud",
-      "path": "postgresql/crud.md"
+      "path": "docs/postgresql/crud.md"
     },
     {
       "name": "debugging",
-      "path": "postgresql/debugging.md"
+      "path": "docs/postgresql/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "postgresql/deployment.md"
+      "path": "docs/postgresql/deployment.md"
     },
     {
       "name": "install",
-      "path": "postgresql/install.md"
+      "path": "docs/postgresql/install.md"
     },
     {
       "name": "security",
-      "path": "postgresql/security.md"
+      "path": "docs/postgresql/security.md"
     },
     {
       "name": "setup",
-      "path": "postgresql/setup.md"
+      "path": "docs/postgresql/setup.md"
     }
   ],
   "python": [
     {
       "name": "cheatsheet",
-      "path": "python/cheatsheet.md"
+      "path": "docs/python/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "python/commands.md"
+      "path": "docs/python/commands.md"
     },
     {
       "name": "crud",
-      "path": "python/crud.md"
+      "path": "docs/python/crud.md"
     },
     {
       "name": "debugging",
-      "path": "python/debugging.md"
+      "path": "docs/python/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "python/deployment.md"
+      "path": "docs/python/deployment.md"
     },
     {
       "name": "install",
-      "path": "python/install.md"
+      "path": "docs/python/install.md"
     },
     {
       "name": "security",
-      "path": "python/security.md"
+      "path": "docs/python/security.md"
     },
     {
       "name": "setup",
-      "path": "python/setup.md"
+      "path": "docs/python/setup.md"
     }
   ],
   "react": [
     {
       "name": "cheatsheet",
-      "path": "react/cheatsheet.md"
+      "path": "docs/react/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "react/commands.md"
+      "path": "docs/react/commands.md"
     },
     {
       "name": "debugging",
-      "path": "react/debugging.md"
+      "path": "docs/react/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "react/deployment.md"
+      "path": "docs/react/deployment.md"
     },
     {
       "name": "install",
-      "path": "react/install.md"
+      "path": "docs/react/install.md"
     },
     {
       "name": "security",
-      "path": "react/security.md"
+      "path": "docs/react/security.md"
     },
     {
       "name": "setup",
-      "path": "react/setup.md"
+      "path": "docs/react/setup.md"
     }
   ],
   "ruby": [
     {
       "name": "cheatsheet",
-      "path": "ruby/cheatsheet.md"
+      "path": "docs/ruby/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "ruby/commands.md"
+      "path": "docs/ruby/commands.md"
     },
     {
       "name": "crud",
-      "path": "ruby/crud.md"
+      "path": "docs/ruby/crud.md"
     },
     {
       "name": "debugging",
-      "path": "ruby/debugging.md"
+      "path": "docs/ruby/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "ruby/deployment.md"
+      "path": "docs/ruby/deployment.md"
     },
     {
       "name": "install",
-      "path": "ruby/install.md"
+      "path": "docs/ruby/install.md"
     },
     {
       "name": "security",
-      "path": "ruby/security.md"
+      "path": "docs/ruby/security.md"
     },
     {
       "name": "setup",
-      "path": "ruby/setup.md"
+      "path": "docs/ruby/setup.md"
     }
   ],
   "typescript": [
     {
       "name": "cheatsheet",
-      "path": "typescript/cheatsheet.md"
+      "path": "docs/typescript/cheatsheet.md"
     },
     {
       "name": "commands",
-      "path": "typescript/commands.md"
+      "path": "docs/typescript/commands.md"
     },
     {
       "name": "debugging",
-      "path": "typescript/debugging.md"
+      "path": "docs/typescript/debugging.md"
     },
     {
       "name": "deployment",
-      "path": "typescript/deployment.md"
+      "path": "docs/typescript/deployment.md"
     },
     {
       "name": "install",
-      "path": "typescript/install.md"
+      "path": "docs/typescript/install.md"
     },
     {
       "name": "security",
-      "path": "typescript/security.md"
+      "path": "docs/typescript/security.md"
     },
     {
       "name": "setup",
-      "path": "typescript/setup.md"
+      "path": "docs/typescript/setup.md"
     }
   ]
 }
